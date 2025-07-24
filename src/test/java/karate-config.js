@@ -1,7 +1,7 @@
 function fn() {    
   var env = karate.env; // get system property 'karate.env'
   karate.log('karate.env system property was:', env);
-  var baseUrl = 'http://api.coindesk.com'
+  var baseUrl = 'http://api.coingecko.com';
 //  if (!env) {
 //    env = 'dev';
 //  }

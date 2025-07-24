@@ -1,4 +1,4 @@
-@Test
+@UITest
 Feature: Add To Cart Functionality
 
   Background:
